@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HeaderView.h
 //  CollectionViewSample
 //
 //  Created by Natsuko Nishikata on 2012/09/17.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UICollectionViewController
-
+@interface HeaderView : UICollectionReusableView
+@property (weak, nonatomic) IBOutlet UILabel *label;
 @end
