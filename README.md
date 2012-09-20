@@ -1,5 +1,4 @@
 CollectionViewSample
-====================
 
 CollectionViewを使った簡単なサンプルコード
 縦スクロール、レイアウトのカスタマイズなし
